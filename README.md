@@ -1,7 +1,7 @@
 <h1>jogo Numero Secreto</h1>
 
 <h2> Sobre</h2>
-<p>Esse foi um projeto criado na jornada Oracle ONE + Alura, na parte de Logica de Programação.</p>
+<p>Esse foi um projeto criado na jornada Oracle ONE + Alura, no curso de Logica de Programação.</p>
 
 # Tecnologias
 <div>
